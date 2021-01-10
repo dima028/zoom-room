@@ -1,7 +1,6 @@
-# zoom-room
-![logo](https://github.com/dima028/zoom-room/zoomroom-long.png?raw=true)
+![](https://github.com/dima028/zoom-room/blob/main/zoomroom-long.png?raw=true)
 
-[![Go To YouTube](https://github.com/dima028/zoom-room/Capture.PNG?)](https://www.youtube.com/watch?v=jkG0TKvfqUA "Go To YouTube")
+[![Go To YouTube](https://github.com/dima028/zoom-room/blob/main/Capture.PNG?raw=true)](https://www.youtube.com/watch?v=jkG0TKvfqUA "")
 
 ## Inspiration
 COVID-19 has been a challenging time for schools, offices, groupmates, and hackathons alike! In 2020, we have learned to adjust to a new standard of work and social living, and even something called “Zoom Fatigue”.
