@@ -1,5 +1,3 @@
-![](https://github.com/dima028/zoom-room/blob/main/zoomroom-long.png?raw=true)
-
 [![Go To YouTube](https://github.com/dima028/zoom-room/blob/main/Capture.PNG?raw=true)](https://www.youtube.com/watch?v=jkG0TKvfqUA "")
 
 ## Inspiration
